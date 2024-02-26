@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, kind Internet Stranger 👋
 
 <!--
 **simo-pagliu/simo-pagliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## About Me
+* Bachelor in Energy Engineer, Graduated in 2023
+* Master of Science Student in Nuclear Engineering at Polimi, 2023-Ongoing.
+* Amateur programmer
+
+## Current Projects
+While manly focused on my studies, I plan to move, polish and publish most of the code that I use, which ranges from websites, university projects, simple javascript applications and docker-compose used for self-hosted services
+
+
+
