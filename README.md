@@ -11,5 +11,10 @@
 ## Current Projects
 While manly focused on my studies, I plan to move, polish and publish most of the code that I use, which ranges from websites, university projects, simple javascript applications and docker-compose used for self-hosted services
 
+- [x] Create Repo for Master of science related projects
+- [ ] "Clean" and publish repo for selfhosted "backend" services
+- [ ] "Clean" and publish repo for Bachelor thesis
+- [ ] Complete my website and publish it
+
 
 
