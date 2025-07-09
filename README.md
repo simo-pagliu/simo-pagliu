@@ -9,5 +9,5 @@ Welcome to my GitHub!
 
 ## Contact Me
 Feel free to reach out to me if you have any questions or just want to connect!
-- 🌐 Website> simone.pagliuca.net
+- 🌐 Website> [simone.pagliuca.net](https://simone.pagliuca.net)
 - 🔗 LinkedIn: [Simone Pagliuca](https://www.linkedin.com/in/simone-pagliuca/)
